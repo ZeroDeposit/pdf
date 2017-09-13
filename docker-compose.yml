@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  pdf:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app

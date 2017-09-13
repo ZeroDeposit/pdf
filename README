@@ -1,0 +1,1 @@
+Build with `docker-compose build`. Run with `docker-compose run pdf wkhtmltopdf http://longpond.co.uk pond.pdf`
